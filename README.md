@@ -1,4 +1,4 @@
-# <3-Vyper
+# <3 Vyper
 
 Contract address: https://etherscan.io/address/0x45128CB743951121Fb70cb570c0784492732778A#code
 
